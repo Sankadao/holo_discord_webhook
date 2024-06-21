@@ -11,11 +11,6 @@ holodule_list = []
 
 #配信者のチャンネルID, 配信者名, アイコン画像のURLのリスト
 Hololive = {
-    "ホロライブ": [
-        "ホロライブ公式チャンネル",
-        "https://yt3.ggpht.com/ytc/AKedOLTj0OSWM9TvPy4e8v1_o99OtP3Bg7FXthdkgr2bCQ=s288-c-k-c0xffffffff-no-rj-mo",
-        "https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg"
-    ],
     "ときのそら": [
         "ときのそら",
         "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png",
@@ -321,10 +316,25 @@ Hololive = {
         "https://yt3.googleusercontent.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag",
         "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA"
     ],
-    "hololive DEV_IS": [
-        "hololive DEV_IS",
-        "https://yt3.googleusercontent.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ",
-        "https://www.youtube.com/@hololiveDEV_IS"
+    "Elizabeth": [
+        "Elizabeth Rose Bloodflame / エリザベス・ローズ・ブラッドフレイム",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Elizabeth-Rose-Bloodflame_list_thumb.png",
+        "https://www.youtube.com/@holoen_erbloodflame"
+    ],
+    "Gigi": [
+        "Gigi Murin / ジジ・ムリン",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Gigi-Murin_list_thumb.png",
+        "https://www.youtube.com/@holoen_gigimurin"
+    ],
+    "Cecilia": [
+        "Cecilia Immergreen / セシリア・イマーグリーン",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Cecilia-Immergreen_list_thumb.png",
+        "https://www.youtube.com/@holoen_ceciliaimmergreen"
+    ],
+    "Raora": [
+        "Raora Panthera / ラオーラ・パンテーラ",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Raora-Panthera_list_thumb.png",
+        "https://www.youtube.com/@holoen_raorapanthera"
     ],
     "火威青": [
         "火威青",
@@ -480,6 +490,36 @@ Hololive = {
         "Noir Vesper / ノワール・ヴェスパー",
         "https://holostars.hololivepro.com/wp-content/uploads/2021/12/Noir-Vesper_list_thumb.png",
         "https://www.youtube.com/channel/UCDRWSO281bIHYVi-OV3iFYA"
+    ],
+    "ホロライブ": [
+        "ホロライブ公式チャンネル",
+        "https://yt3.ggpht.com/ytc/AKedOLTj0OSWM9TvPy4e8v1_o99OtP3Bg7FXthdkgr2bCQ=s288-c-k-c0xffffffff-no-rj-mo",
+        "https://www.youtube.com/@hololive"
+    ],
+    "holo EN": [
+        "hololive English",
+        "https://yt3.googleusercontent.com/nfg9n5podc7KZsdkBdsKDRhpddQrC4Pa5XDphTlDUMc3vM1HXcxunI6FLDCBSwYe70zkTgEb3A=s176-c-k-c0x00ffffff-no-rj",
+        "https://www.youtube.com/@hololiveEnglish"
+    ],
+    "holo ID": [
+        "hololive Indonesia",
+        "https://yt3.googleusercontent.com/ytc/AIdro_nqRoQYVOioAVLFHDrRP_y8Ri4zAUoq3kxEdHrQQLyrp44=s176-c-k-c0x00ffffff-no-rj",
+        "https://www.youtube.com/@hololiveIndonesia"
+    ],
+    "hololive DEV_IS": [
+        "hololive DEV_IS",
+        "https://yt3.googleusercontent.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ",
+        "https://www.youtube.com/@hololiveDEV_IS"
+    ],
+    "ホロスターズ": [
+        "ホロスターズ公式チャンネル",
+        "https://yt3.googleusercontent.com/5Jn_OHkOZhZssXXwWopUQZVwnL16EJivvxTDGqVmp4Cah3nLmVTgZMQmfF-SyuMhtFkncyT9Lw=s176-c-k-c0x00ffffff-no-rj",
+        "https://www.youtube.com/@HOLOSTARS"
+    ],
+    "HOLOSTARS EN": [
+        "HOLOSTARS English",
+        "https://yt3.googleusercontent.com/jvGFuTmqlv5udorr8TGYsllUntfo0yXRn2hpWrvjWz_nso1-tTQ2J3TPV616F-JLHLKB4s65=s176-c-k-c0x00ffffff-no-rj",
+        "https://www.youtube.com/@HOLOSTARSEnglish"
     ]
 }
 
