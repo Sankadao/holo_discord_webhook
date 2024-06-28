@@ -5,7 +5,7 @@ from requests.exceptions import ConnectionError, Timeout, ChunkedEncodingError
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
-webhook_url_Hololive = ''
+webhook_url_Hololive = 'https://ptb.discord.com/api/webhooks/1255898254583922720/fO_AQsUEYlRk3msXCgsXHGvzgAbixvaP59oVeBMro2WP6GYEcPXe-0mX6FZcMpVDp0Hl'
 holodule_url = 'https://schedule.hololive.tv/'
 holodule_list = []
 
